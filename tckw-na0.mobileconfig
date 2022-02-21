@@ -11,7 +11,7 @@
 
 						<dict>
 								<key>Name</key>
-								<string>sp.koodo.com</string>
+								<string>sp.telus.com</string>
 			               <key>AllowedProtocolMask</key>
                     <integer>3</integer>			
 			<key>AuthenticationType</key>
@@ -118,7 +118,7 @@
                     <integer>3</integer>
 
                     <key>Name</key>
-                    <string>sp.koodo.com</string>
+                    <string>sp.telus.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>
