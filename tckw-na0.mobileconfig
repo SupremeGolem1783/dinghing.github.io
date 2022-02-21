@@ -13,11 +13,66 @@
 
             <key>APNs</key>
             <array>
-                <dict>
-                    <key>Name</key>
-                    <string>tckw-na0.spmode.ne.jp</string>
-                </dict>
-            </array>
+
+	
+
+							<dict>
+								<key>Name</key>
+								<string>3gnet</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+							<dict>
+								<key>Name</key>
+								<string>3gwap</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+<dict>
+								<key>Name</key>
+								<string>internet.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+<dict>
+								<key>Name</key>
+								<string>mms.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+	<dict>
+								<key>Name</key>
+								<string>wsp.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>internet.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>mms.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+
+						</array>
+
 			<key>PayloadDescription</key>
 			<string>Configures Cellular settings</string>
 			<key>PayloadDisplayName</key>
@@ -35,7 +90,7 @@
 	<key>PayloadDisplayName</key>
 	<string>APN</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.cellular.sample</string>
+	<string>com.apple.cellular.5278</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
