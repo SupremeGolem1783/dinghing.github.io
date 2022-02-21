@@ -9,6 +9,19 @@
             <key>APNs</key>
             <array>
 
+						<dict>
+								<key>Name</key>
+								<string>sp.koodo.com</string>
+							        <key>ProxyPort</key>
+								<integer>0</integer>
+
+                <key>AllowedProtocolMask</key>
+                    <integer>1</integer>
+
+			<key>AuthenticationType</key>
+<string>CHAP</string>			
+</dict>
+
 	
 
 
@@ -107,6 +120,8 @@
                     <key>Name</key>
                     <string>sp.koodo.com</string>
 
+                <key>AllowedProtocolMask</key>
+                    <integer>3</integer>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>
