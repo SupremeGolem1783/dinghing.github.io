@@ -13,7 +13,9 @@
 
 							<dict>
 								<key>Name</key>
-								<string>sp.koodo.com</string>	
+								<string>sp.koodo.com</string>
+									<key>proxyPort</key>
+								<integer>0</integer>
 			<key>AuthenticationType</key>
 <string>CHAP</string>			
 </dict>
@@ -92,7 +94,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Cellular</string>
 			<key>PayloadIdentifier</key>
-            <string>cellular.1</string>
+            <string>com.apple.cellular</string>
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
@@ -104,7 +106,7 @@
 	<key>PayloadDisplayName</key>
 	<string>APN</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.cellular.sample</string>
+	<string>FgfdvgdgggoGeForce</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
