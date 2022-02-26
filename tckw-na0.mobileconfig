@@ -250,6 +250,9 @@
 							        <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -334,6 +337,9 @@
 
 <key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
