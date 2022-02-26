@@ -15,8 +15,8 @@
 
 <string>isp.telus.com</string>
 
-<key>type-mask</key>
-<integer>0</integer>							
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>						
 <key>Username</key>
 <string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
 
@@ -24,7 +24,7 @@
 <string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
 
 								<key>ProxyPort</key>
-								<integer>0</integer>
+							<integer>0</integer>
 
 </dict>
 
