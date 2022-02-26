@@ -243,7 +243,7 @@
 
 <dict>
                                                                 <key>Name</key>
-								<string>epdg.epc.mnc490.mcc302.pub.3gppnetwork.org</string> epdg.epc
+								<string>epdg.epc.mnc490.mcc302.pub.3gppnetwork.org</string>
 								<key>ProxyPort</key>
 								<integer>0</integer>
 
