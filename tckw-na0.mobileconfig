@@ -14,9 +14,7 @@
 <key>Name</key>
 
 <string>isp.telus.com</string>
-
-						<key>ProxyServer</key>
-								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>						
+						
 <key>Username</key>
 <string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
 
@@ -38,6 +36,9 @@
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -58,6 +59,9 @@
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -76,6 +80,9 @@
 
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -97,6 +104,9 @@
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -115,6 +125,10 @@
 
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 </dict>
 
 <dict>
@@ -125,6 +139,9 @@
 
 							<key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -141,6 +158,9 @@
 								<string>xcap.ims.mnc491.mcc302.pub.3gppnetwork.org</string>
 								<key>ProxyPort</key>
 								<integer>0</integer>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 							        <key>Proxy</key>
 								<string>0.0.0.0</string>
@@ -164,6 +184,9 @@
 							        <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -183,6 +206,9 @@
 							        <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -201,6 +227,9 @@
 
 							        <key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -240,6 +269,9 @@
 <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -259,6 +291,9 @@
 <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -277,6 +312,9 @@
 
 <key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -315,6 +353,9 @@
 <key>Proxy</key>
 								<string>0.0.0.0</string>
 
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
@@ -333,24 +374,8 @@
 <key>Proxy</key>
 								<string>0.0.0.0</string>
 
-<key>AuthenticationType</key>
-<string>CHAP</string>							
-<key>Username</key>
-<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
-
-<key>Password</key>
-<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
-
-							</dict>
-
-	<dict>
-								<key>Name</key>
-								<string>mms</string>
-								<key>ProxyPort</key>
-								<integer>0</integer>
-
-<key>Proxy</key>
-								<string>0.0.0.0</string>
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -370,6 +395,31 @@
 
 <key>Proxy</key>
 								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>mms</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+<key>Proxy</key>
+								<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
 
 <key>AuthenticationType</key>
 <string>CHAP</string>							
@@ -390,6 +440,10 @@
 							        <key>Proxy</key>
 
 <string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
 <key>AuthenticationType</key>
 <string>CHAP</string>							
 <key>Username</key>
