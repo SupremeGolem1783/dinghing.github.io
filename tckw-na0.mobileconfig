@@ -13,10 +13,10 @@
 
 <key>Name</key>
 
-<string>isp.telusjsjekekekekeke.com</string>
+<string>isp.telus.com</string>
 
-<key>AuthenticationType</key>
-<string>PAP</string>							
+<key>AllowedProtocolMask</key>
+<integer>0</integer>							
 <key>Username</key>
 <string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
 
