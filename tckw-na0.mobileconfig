@@ -752,7 +752,53 @@
 <key>Password</key>
 <string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
 							
-</dict> 
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>IMS</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>ims</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
 
 
             </array>
