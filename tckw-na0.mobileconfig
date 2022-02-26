@@ -5,18 +5,234 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-            <key>AttachAPN</key>
-            <dict>
-                    <key>Name</key>
-                    <string>tckw-na0.spmode.ne.jp</string>
-            </dict>
+         
 
             <key>APNs</key>
             <array>
-                <dict>
-                    <key>Name</key>
-                    <string>tckw-na0.spmode.ne.jp</string>
-                </dict>
+<dict>
+
+<key>Name</key>
+
+<string>isp.telus.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+
+</dict>
+
+<dict>
+
+                                                                <key>Name</key>
+								<string>XCAP</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+
+                                                                <key>Name</key>
+								<string>xcap.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict> 
+<dict>
+
+                                                                <key>Name</key>
+								<string>volte.mobile.frdm.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+
+                                                                <key>Name</key>
+								<string>xcap.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.ims.mnc491.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.ims.mnc740.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.ims.mnc220.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.ims.mnc222.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>VoLTE</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+							<dict>
+								<key>Name</key>
+								<string>3gnet</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+							<dict>
+								<key>Name</key>
+								<string>3gwap</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+<dict>
+								<key>Name</key>
+								<string>internet.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+<dict>
+								<key>Name</key>
+								<string>mms.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+	<dict>
+								<key>Name</key>
+								<string>wsp.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+	<dict>
+								<key>Name</key>
+								<string>mms.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+	<dict>
+								<key>Name</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>Internet</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
             </array>
 			<key>PayloadDescription</key>
 			<string>Configures Cellular settings</string>
