@@ -460,6 +460,11 @@
 							
 </dict>
             </array>
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>sp.koodo.com</string>
+</dict>
 			<key>PayloadDescription</key>
 			<string>Configures Cellular settings</string>
 			<key>PayloadDisplayName</key>
