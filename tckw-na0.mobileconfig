@@ -15,7 +15,7 @@
 
 <string>isp.telus.com</string>
 
-<key>AllowedProtocolMask</key>
+<key>type-mask</key>
 <integer>0</integer>							
 <key>Username</key>
 <string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
