@@ -1142,6 +1142,141 @@
 <string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
 							
 </dict>
+<dict>
+                                                                <key>Name</key>
+								<string>emergency</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict> 
+<dict>
+                                                                <key>Name</key>
+								<string>cbs</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+<dict>
+                                                                <key>Name</key>
+								<string>default</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>hipri</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>supl</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>dun</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
 
 
             </array>
@@ -1156,7 +1291,134 @@
 <key>AttachAPN</key>
 <dict>
 <key>Name</key>
+<string>default</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>emergency</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>cbs</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>hipri</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>supl</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>dun</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>volte.windmobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>volte.mobilefrdm.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>vilte.mobilefrdm.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>vilte.windmobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>ViLTE</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>ViWiFi</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>xcap.koodo.com</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>xcap.telus.com</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>e911.mobilefrdm.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>hos</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>vilte.mobile.frdm.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>volte.mobile.frdm.ca</string>
+</dict>
+
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
 <string>xcap</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>mms.windmobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>internet.windmobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>Name</key>
+<string>xcap.windmobile.ca</string>
 </dict>
 
 <key>AttachAPN</key>
