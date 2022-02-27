@@ -9,6 +9,17 @@
 
             <key>APNs</key>
             <array>
+
+<dict>
+
+<key>Name</key>
+
+<string>sp.koodo.com</string>
+
+
+
+</dict>
+
 <dict>
 
 <key>Name</key>
