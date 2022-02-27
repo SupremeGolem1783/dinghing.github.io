@@ -823,6 +823,326 @@
 							
 </dict>
 
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.koodo.com</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>ViLTE</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>ViWiFi</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.telus.com</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>e911.mobilefrdm.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+<dict>
+                                                                <key>Name</key>
+								<string>volte.mobilefrdm.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+<dict>
+                                                                <key>Name</key>
+								<string>hos</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>mms.windmobile.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>volte.windmobile.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>internet.windmobile.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>xcap.windmobile.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>vilte.mobilefrdm.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>vilte.mobile.frdm.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
+<dict>
+                                                                <key>Name</key>
+								<string>volte.mobilefrdm.ca</string>
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+							        <key>Proxy</key>
+
+<string>0.0.0.0</string>
+
+						<key>ProxyServer</key>
+								<string>https://jdjsjdjdjdjejejjd728288328822828ndkjdjdjejej728283828nsjdkskekke828282.com</string>
+
+<key>AuthenticationType</key>
+<string>CHAP</string>							
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
+							
+</dict>
+
 
             </array>
 
